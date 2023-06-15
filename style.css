@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+    
+}
+
+.head
+{
+    text-align: right;
+    width: 100%;
+}
+
+button
+{
+    background-color: blue;
+    padding: 5px;
+}
